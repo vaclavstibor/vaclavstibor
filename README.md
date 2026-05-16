@@ -1,5 +1,3 @@
-## About Me
-
 - 🎓 **MSc in Computer Science** *(in progress)* at [MFF UK – Charles University](https://www.mff.cuni.cz/en), Prague
 - 💼 **Data Scientist** at [EmbedIT](https://cz.linkedin.com/company/embedit) under [PPF Group](https://www.linkedin.com/company/ppf) — Banking, ML, NLP, LLMs
 - 🔬 **Research** — Interpretability & Recommendation Steering via Sparse Autoencoders, supervised by [Mgr. Ladislav Peška, Ph.D.](https://www.ksi.mff.cuni.cz/~peska/)
